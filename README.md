@@ -15,3 +15,5 @@ mkdir dump
 3: Open get_displacement.ipynb, run it to get the initial LEFM loaded simulation cell.
 
 4: Run loop_relax.in with LAMMPS. The interatomic potential is f940.yace 
+
+5: Fracture configurations are in folder equi. We expect a twin formation at the crack tip.

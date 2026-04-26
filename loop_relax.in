@@ -1,6 +1,6 @@
 label loopi
-variable i loop 20
-variable l equal "152"
+variable i loop 50
+variable l equal "0"
 variable m equal "v_l+v_i"
 print "${m}"
 variable K equal "(v_m-1)*0.01"
